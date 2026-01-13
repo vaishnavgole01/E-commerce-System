@@ -1,0 +1,10 @@
+E-Commerce-System/
+│
+├── Product.java              # Abstract base class
+├── ElectronicsProduct.java   # Electronics product implementation
+├── ClothingProduct.java      # Clothing product implementation
+├── CartItem.java             # Represents cart items
+├── ShoppingCart.java         # Manages cart operations
+├── Order.java                # Handles order processing
+├── Main.java                 # Menu-driven execution class
+└── README.md                 # Project documentation
